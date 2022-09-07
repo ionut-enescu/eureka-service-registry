@@ -1,10 +1,10 @@
-package com.springms.microservices.currencyconversionservice;
+package com.springms.microservices.serviceregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CurrencyConversionServiceApplicationTests {
+class ServiceRegistryApplicationTests {
 
 	@Test
 	void contextLoads() {

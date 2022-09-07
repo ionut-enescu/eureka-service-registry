@@ -1,13 +1,13 @@
-package com.springms.microservices.currencyconversionservice;
+package com.springms.microservices.serviceregistry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CurrencyConversionServiceApplication {
+public class ServiceRegistryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CurrencyConversionServiceApplication.class, args);
+		SpringApplication.run(ServiceRegistryApplication.class, args);
 	}
 
 }
